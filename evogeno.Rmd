@@ -1,0 +1,11 @@
+---
+title: "Evolutionary Genomics and Bioinformatics"
+author: "Lorene Stasiuk"
+date: 2020.11.18
+---
+
+The link for the course repository is [here](https://github.com/lstas31/genomics-course)!
+
+!["DNA"](dna.jpg)
+
+Diagram from: [https://www.medicalnewstoday.com/articles/319818](https://www.medicalnewstoday.com/articles/319818)
